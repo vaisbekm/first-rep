@@ -1,7 +1,0 @@
-new cc.Sprite(res.s_bg);
-        this.addChild(bg);
-        bg.setPosition(size.width / 2, size.height / 2);
-
-        var logo = new cc.Sprite(res.logo);
-        this.addChild(logo);
-        logo.setPosition(size.width / 2, size.height / 2);
